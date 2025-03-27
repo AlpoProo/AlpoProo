@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Alperen Gökdeniz
 
+<img src="https://img.shields.io/badge/Status-Learning%20&%20Exploring-brightgreen" alt="Status: Learning & Exploring"/>
 
 ## 🚀 About Me
-I am a passionate software developer and network engineer with expertise in machine learning, computer vision, and networking. I focus on developing innovative solutions for medical image analysis, AI applications, and network infrastructure.
+I am a passionate student with a strong interest in networking, cybersecurity, and programming. Currently pursuing my education while developing skills in network infrastructure, security protocols, and various programming languages. I enjoy creating practical solutions and exploring new technologies in my free time.
 
 ## 🛠️ Tech Stack
 ### Programming & Development
@@ -25,26 +26,30 @@ I am a passionate software developer and network engineer with expertise in mach
 <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 </p>
 
+## 🌱 Current Focus
+- Studying for CCNA certification
+- Exploring network security protocols
+- Learning automation through Python scripting
+- Developing practical tools for networking tasks
 
 ## 📚 Projects
-### AI & Computer Vision
+### Medical Imaging
 - [colonoscopy-polyp-segmentation-model](https://github.com/AlpoProo/colonoscopy-polyp-segmentation-model)
   - Segmentation model using CVC-ClinicDB dataset
-  - Deep learning for medical image analysis
+  - Medical image analysis project
 
 ### Utilities
 - [automail](https://github.com/AlpoProo/automail)
   - Automated email sending solution
   - Python-based email automation tool
 
-
 ## 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlpoProo&show_icons=true&theme=radical" alt="AlpoProo's GitHub stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpoProo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <a href="https://github.com/AlpoProo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlpoProo&show_icons=true&theme=radical" alt="AlpoProo's GitHub stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpoProo&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
 
 ## 🤝 Connect With Me
 <p align="left">
