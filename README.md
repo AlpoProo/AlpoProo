@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Alperen Gökdeniz
 
-<img src="https://img.shields.io/badge/Status-Learning%20&%20Exploring-brightgreen" alt="Status: Learning & Exploring"/>
-
 ## 🚀 About Me
 I am a passionate student with a strong interest in networking, cybersecurity, and programming. Currently pursuing my education while developing skills in network infrastructure, security protocols, and various programming languages. I enjoy creating practical solutions and exploring new technologies in my free time.
 
