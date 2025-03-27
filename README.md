@@ -1,15 +1,33 @@
 # 👋 Hi, I'm Alperen Gökdeniz
 
 ## 🚀 About Me
-I am a passionate software developer with expertise in machine learning, computer vision, and deep learning. I focus on developing innovative solutions for medical image analysis and AI applications.
+I am a passionate software developer and network engineer with expertise in machine learning, computer vision, and networking. I focus on developing innovative solutions for medical image analysis, AI applications, and network infrastructure.
 
 ## 🛠️ Tech Stack
-- **Programming Languages:** Python, C++, JavaScript
+### Programming & Development
+- **Programming Languages:** Python, C, C++, JavaScript, PHP
 - **Machine Learning:** PyTorch, TensorFlow, scikit-learn
 - **Computer Vision:** OpenCV, Albumentations
 - **Deep Learning:** CNN, UNet, ResNet, Vision Transformers
+- **Web Development:** PHP, HTML, CSS, JavaScript
 - **Tools & Technologies:** Git, Docker, Linux, CUDA
-- **Other Skills:** Medical Image Analysis, Data Augmentation, Model Optimization
+
+### Networking
+- **Certifications:** CCNA 1 & 2 (CCNA certification in progress)
+- **Network Technologies:** 
+  - Cisco IOS
+  - Network Security
+  - Routing & Switching
+  - Network Protocols
+  - Network Infrastructure
+- **Network Tools:** Wireshark, Cisco Packet Tracer
+
+### Other Skills
+- Medical Image Analysis
+- Data Augmentation
+- Model Optimization
+- Network Troubleshooting
+- System Administration
 
 ## 📚 Projects
 ### Medical Image Analysis
@@ -33,7 +51,7 @@ I am a passionate software developer with expertise in machine learning, compute
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpoProo&layout=compact&theme=radical)
 
 ## 🤝 Connect With Me
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://linkedin.com/in/alperengokdeniz)
 - [Email](mailto:your.email@example.com)
 - [Twitter](https://twitter.com/your-handle)
 
