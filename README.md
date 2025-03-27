@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Alperen Gökdeniz
 
-<img src="https://img.shields.io/badge/Status-Writing%20Code...-brightgreen" alt="Status: Writing Code..."/>
 
 ## 🚀 About Me
 I am a passionate software developer and network engineer with expertise in machine learning, computer vision, and networking. I focus on developing innovative solutions for medical image analysis, AI applications, and network infrastructure.
@@ -26,19 +25,6 @@ I am a passionate software developer and network engineer with expertise in mach
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </p>
 
-### Networking
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="cisco" width="80" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" alt="wireshark" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-</p>
-
-### Tools & Technologies
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-</p>
 
 ## 📚 Projects
 ### AI & Computer Vision
@@ -46,19 +32,24 @@ I am a passionate software developer and network engineer with expertise in mach
   - PowerShell scripts for automation tasks
   - System level process management
 
-### System & Utilities
-- [python-dll-injector-but-not-working](https://github.com/AlpoProo/python-dll-injector-but-not-working)
-  - Windows system programming project
-  - DLL injection experiments for educational purposes
+- [colonoscopy-polyp-segmentation-model](https://github.com/AlpoProo/colonoscopy-polyp-segmentation-model)
+  - Segmentation model using CVC-ClinicDB dataset
+  - Deep learning for medical image analysis
 
-- [self-destruction-but-still-working-on-it](https://github.com/AlpoProo/self-destruction-but-still-working-on-it)
-  - Educational project exploring file operations
-  - Secure data removal techniques
+### Web Development
+- [gokdeniz.tr](https://github.com/AlpoProo/gokdeniz.tr)
+  - Personal website development
+  - HTML, CSS, and JavaScript implementation
 
-### Game Development
-- [random-game-with-api](https://github.com/AlpoProo/random-game-with-api)
-  - Interactive game development with external API integration
-  - Python-based game implementation
+### Utilities
+- [automail](https://github.com/AlpoProo/automail)
+  - Automated email sending solution
+  - Python-based email automation tool
+
+- [AlpoProo](https://github.com/AlpoProo/AlpoProo)
+  - GitHub profile configuration files
+  - Personal profile customization
+
 
 ## 📈 GitHub Stats
 <p align="center">
@@ -79,4 +70,4 @@ I am a passionate software developer and network engineer with expertise in mach
 Feel free to reach out for collaborations or just a friendly chat!
 
 ---
-⭐️ From [AlpoProo](https://github.com/AlpoProo) 
+⭐️ From [AlpoProo](https://github.com/AlpoProo)
