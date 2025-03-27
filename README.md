@@ -28,27 +28,14 @@ I am a passionate software developer and network engineer with expertise in mach
 
 ## 📚 Projects
 ### AI & Computer Vision
-- [payload](https://github.com/AlpoProo/payload)
-  - PowerShell scripts for automation tasks
-  - System level process management
-
 - [colonoscopy-polyp-segmentation-model](https://github.com/AlpoProo/colonoscopy-polyp-segmentation-model)
   - Segmentation model using CVC-ClinicDB dataset
   - Deep learning for medical image analysis
-
-### Web Development
-- [gokdeniz.tr](https://github.com/AlpoProo/gokdeniz.tr)
-  - Personal website development
-  - HTML, CSS, and JavaScript implementation
 
 ### Utilities
 - [automail](https://github.com/AlpoProo/automail)
   - Automated email sending solution
   - Python-based email automation tool
-
-- [AlpoProo](https://github.com/AlpoProo/AlpoProo)
-  - GitHub profile configuration files
-  - Personal profile customization
 
 
 ## 📈 GitHub Stats
