@@ -28,10 +28,7 @@ I am a passionate student with a strong interest in networking, cybersecurity, a
 
 ## 🌱 Current Focus
 - Studying for CCNA certification
-- Exploring network security protocols
-- Learning automation through Python scripting
-- Developing practical tools for networking tasks
-
+- Developing more health AI models
 ## 📚 Projects
 ### Medical Imaging
 - [colonoscopy-polyp-segmentation-model](https://github.com/AlpoProo/colonoscopy-polyp-segmentation-model)
